@@ -177,3 +177,18 @@ section {
      padding-top: 25px;
      font-family: 'Lobster', cursive;
  }
+
+
+ .imgWrapper {
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    position: relative;
+    padding-top: calc(100% / 21 * 9);
+  }
+
+  img {
+    display: block;
+    width: 100%;
+  }
