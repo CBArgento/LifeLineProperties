@@ -1,0 +1,179 @@
+.navbar-custom {
+    background-color: white;
+}
+
+#ContentTitle {
+    text-align: center;
+    font-size: 48px;
+}
+
+section {
+    background-color: #f7f7f7;
+    padding-top: 55px;
+    padding-bottom: 55px;
+}
+
+
+ #button {
+     text-align: center;
+ }
+
+ #FirstCard {
+     /*background-image: src=("https://github.com/CBArgento/WIP/blob/master/Assets/logo.JPG?raw=true");*/
+     width: auto;
+     height: auto;
+     background-size: cover;
+     overflow: hidden;
+     position: relative;
+     border: white;
+     border-radius: 0px;
+     background-position: center;
+    background-repeat: no-repeat;
+
+ }
+
+.card-title{
+    font-size: 78px;
+    font-weight: bold;
+    color:  white;
+}
+
+
+
+ .cardtext {
+    text-align: center;
+    color: white;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    font-size: 30px;
+ }
+
+ /*#img1 {
+     position: relative;
+     height: 500px;
+     width: 100%;
+     position: fixed;
+ }*/
+
+ /* .hero-image{
+    position: relative;
+    height: 120px;
+    overflow: hidden;
+    background: url(..Assets/Developers.jpg) no-repeat center;
+    background-size: cover;
+ }*/
+
+ /*.container1{
+     position: absolute;
+     top: 20%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+     overflow: hidden
+     text-align: center;
+ }*/
+
+ #icons {
+    padding-right: 1em;
+ }
+
+ #loguitos {
+    padding-right: 1em;
+    font-size: 30px;
+    color: lightblue;
+ }
+ #iconsstyle {
+     text-align: center;
+     font-size: 60px;
+     color: #aaf683;
+     padding-top: 15px;
+     padding-bottom: 15px;
+     
+ }
+
+ .spacer {
+     padding: 25px;
+ }
+
+ #Name {
+     font-weight: bold;
+     font-size: 30px;
+ }
+
+
+
+ .footer {
+    position: ;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 20px; 
+    background-color: #161e2c;
+    color: white;
+    text-align: center;
+ }
+
+
+ #MoreServices1 {
+    text-align: center; 
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+ } 
+ 
+ #MoreServices2 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+ } 
+
+ #FooterLogo {
+     text-align: left;
+     font-size: 30px;
+     font-weight: bold;
+ }
+
+ #FooterLogo2{
+     text-align: left;
+ }
+
+ #iconsfooter {
+    padding-right: 2em;
+    text-align: center;
+    font-size: 30px;
+
+ }
+
+ #iconsfooter1 {
+    padding-left: 1em;
+    padding-right: 2em;
+    text-align: center;
+    font-size: 30px;
+ }
+
+ #More {
+    align-items: center;
+    color: lightblue;
+    font-size: 55px;
+    padding-right: 1em;
+
+ }
+
+ #Serviceslogos {
+     text-align: center;
+     
+ }
+
+ .TitleOne {
+     color: blue;
+     font-size: x-large;
+     font-weight: bolder;
+     text-align: center;
+     font-size: 55px;
+ }
+
+ #titlesstyle {
+     padding-top: 25px;
+     font-family: 'Lobster', cursive;
+ }
